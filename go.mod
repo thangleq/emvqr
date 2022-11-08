@@ -1,4 +1,4 @@
-module github.com/thangleq/emvqr
+module github.com/thangleq/emvqr-go
 
 go 1.17
 
